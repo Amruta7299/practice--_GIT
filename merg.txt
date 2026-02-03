@@ -2,4 +2,7 @@
 hi thes is check merge conflicts
 
 hi thes is demo to creat file
+hi new one
+
+
 hi thes is demo to creat file nd commits to main 
